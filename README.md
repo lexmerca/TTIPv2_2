@@ -1,7 +1,4 @@
-# TTIPv2_2
-TTIPv2 Section 2
-
-## 2. The Age of Computational Law, the Internet, and Rules Automation
+## 2. [The Age of Computational Law, the Internet, and Rules Automation](https://github.com/lexmerca/TTIPv2_ToC)
 
 #### 2.1 From Codification of Law to 'Code is Law' and the Digitalization of Trade
 
