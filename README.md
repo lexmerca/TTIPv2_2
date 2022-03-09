@@ -1,2 +1,2 @@
-### 2. [The Age of Computational Law, Internet, and Rules Automation](https://github.com/lexmerca/TTIPv2_ToC)
+### II. [THE AGE OF COMPUTATIONAL LAW AND THE INTERNET](https://github.com/lexmerca/TTIPv2_ToC)
 
